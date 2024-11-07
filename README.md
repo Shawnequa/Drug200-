@@ -1,4 +1,4 @@
-My code tells the story of building a predictive model to determine which drug might be most appropriate for future patients based on their age, sex, blood pressure, and cholesterol levels. Here’s a breakdown of what your code does and the questions it answers:
+My code tells the story of building a predictive model to determine which drug might be most appropriate for future patients based on their age, sex, blood pressure, and cholesterol levels. Here’s a breakdown of what my code does and the questions it answers:
 
 ### **1. Data Preparation and Exploration**
 - **Ingestion**: The dataset containing patient data is loaded. The features include `Age`, `Sex`, `Blood Pressure (BP)`, and `Cholesterol`, while the target variable is the `Drug` each patient responded to.
@@ -30,7 +30,7 @@ My code tells the story of building a predictive model to determine which drug m
 **Question Answered**: *What are the relationships between the features and the target? How do different features correlate with each other and the drug outcome?*
 
 ### **Overall Story:**
-My code tells the story of developing a decision-making tool for medical practitioners. By using a decision tree classifier, you’ve created a model that predicts which drug is likely to be most effective for a patient based on their demographic and clinical features. The visualizations, including the decision tree plot and pairplot, help to explain and validate the model’s decisions, providing insights into the relationships between the features and the drug outcomes.
+My code tells the story of developing a decision-making tool for medical practitioners. By using a decision tree classifier, I've created a model that predicts which drug is likely to be most effective for a patient based on their demographic and clinical features. The visualizations, including the decision tree plot and pairplot, help to explain and validate the model’s decisions, providing insights into the relationships between the features and the drug outcomes.
 
 ### **Summary of Questions Answered by the Code:**
 1. **Data Overview**: What does the dataset look like?
